@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="FunWithFlags3_0" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="StartScreen.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="SecondScreen.csd" Type="Scene" />
+        <Image Name="sheldon3.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
